@@ -1,0 +1,16 @@
+# jemdoc: menu{MENU}{index.html}
+= Srinadh Bhojanapalli
+
+
+~~~
+{}{img_left}{img/profile.jpg}{srinadh}{200px}{231px}
+I am a research scientist at Google research in New York. \n
+
+Earlier I was a research assistant professor at [http://www.ttic.edu TTI Chicago ]. I obtained my PhD in ECE at The University of Texas at Austin where I was advised by [http://users.ece.utexas.edu/~sanghavi/  Prof. Sujay Sanghavi]. Before coming to UT, I've spent four wonderful years pursuing my undergraduate studies at Indian Institute of Technology Bombay.
+
+*Contact:* bsrinadh \[at\] google \[dot\] com.
+~~~
+
+== News
+- ICLR 2019: [https://arxiv.org/abs/1805.12076 Paper] on the role of over-parametrization in generalization of neural networks.
+
