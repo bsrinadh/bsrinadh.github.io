@@ -12,5 +12,6 @@ Earlier I was a research assistant professor at [http://www.ttic.edu TTI Chicago
 ~~~
 
 == News
-- ICLR 2019: [https://arxiv.org/abs/1805.12076 Paper] on the role of over-parametrization in generalization of neural networks.
-
+- ICLR 2020: Two new papers on analyzing and improving the training of Transformers. 
+-- [https://openreview.net/forum?id=ByxRM0Ntvr Are Transformers universal approximators of sequence-to-sequence functions? ] 
+-- [https://openreview.net/forum?id=Syx4wnEtvH Large Batch Optimization for Deep Learning: Training BERT in 76 minutes].

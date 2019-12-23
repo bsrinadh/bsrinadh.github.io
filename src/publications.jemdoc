@@ -3,6 +3,14 @@
 
 	
 == Papers
+		- {{<span class = "paper-title">  Are Transformers universal approximators of sequence-to-sequence functions? </span>}} \n 
+		Chulhee Yun, Srinadh Bhojanapalli, Ankit Singh Rawat, Sashank Reddi, Sanjiv Kumar \n
+		/ICLR 2020/ \n
+		[https://openreview.net/forum?id=ByxRM0Ntvr \[Openreview\]].
+		- {{<span class = "paper-title">  Large Batch Optimization for Deep Learning: Training BERT in 76 minutes  </span>}} \n 
+		Yang You, Jing Li, Sashank Reddi, Jonathan Hseu, Sanjiv Kumar, Srinadh Bhojanapalli, Xiaodan Song, James Demmel, Kurt Keutzer, Cho-Jui Hsieh \n
+		/ICLR 2020/ \n
+		[https://openreview.net/forum?id=Syx4wnEtvH \[Openreview\]], [https://arxiv.org/abs/1904.00962 \[Arxiv\]].
 		- {{<span class = "paper-title"> The role of over-parametrization in generalization of neural networks  </span>}} \n 
 		Behnam Neyshabur, Zhiyuan Li, Srinadh Bhojanapalli, Yann LeCun, Nathan Srebro \n
 		/ICLR 2019/ \n
