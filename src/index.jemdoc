@@ -12,6 +12,9 @@ Earlier I was a research assistant professor at [http://www.ttic.edu TTI Chicago
 ~~~
 
 == News
+- New preprints on label smoothing and Transformers: 
+-- [https://arxiv.org/abs/2003.02819 Does label smoothing mitigate label noise?]
+-- [https://arxiv.org/abs/2002.07028 Low-Rank Bottleneck in Multi-head Attention Models.]
 - ICLR 2020: Two new papers on analyzing and improving the training of Transformers. 
 -- [https://openreview.net/forum?id=ByxRM0Ntvr Are Transformers universal approximators of sequence-to-sequence functions? ] 
 -- [https://openreview.net/forum?id=Syx4wnEtvH Large Batch Optimization for Deep Learning: Training BERT in 76 minutes].

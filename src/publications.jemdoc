@@ -3,6 +3,12 @@
 
 	
 == Papers
+		- {{<span class = "paper-title"> Does label smoothing mitigate label noise? </span>}} \n 
+		Michal Lukasik, Srinadh Bhojanapalli, Aditya Krishna Menon, Sanjiv Kumar \n
+		/preprint 2020/, [https://arxiv.org/abs/2003.02819 \[Arxiv\]].
+		- {{<span class = "paper-title"> Low-Rank Bottleneck in Multi-head Attention Models </span>}} \n 
+		Srinadh Bhojanapalli, Chulhee Yun, Ankit Singh Rawat, Sashank J. Reddi, Sanjiv Kumar \n
+		/preprint 2020/, [https://arxiv.org/abs/2002.07028 \[Arxiv\]].
 		- {{<span class = "paper-title">  Are Transformers universal approximators of sequence-to-sequence functions? </span>}} \n 
 		Chulhee Yun, Srinadh Bhojanapalli, Ankit Singh Rawat, Sashank Reddi, Sanjiv Kumar \n
 		/ICLR 2020/ \n
