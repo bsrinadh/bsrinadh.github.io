@@ -1,8 +1,18 @@
 # jemdoc: menu{MENU}{publications.html}
 = Publications
-
+\[*\] indicates alphabetical ordering of author names.
 	
 == Papers
+		- {{<span class = "paper-title">  An efficient nonconvex reformulation of stagewise convex optimization problems [*] </span>}} \n 
+		Srinadh Bhojanapalli, Rudy Bunel, Krishnamurthy Dvijotham, Oliver Hinder \n
+		/Neurips 2020/ \n
+		- {{<span class = "paper-title"> Semantic label smoothing for sequence to sequence problems </span>}} \n 
+		Michal Lukasik, Himanshu Jain, Aditya Menon, Seungyeon Kim, Srinadh Bhojanapalli, Felix Yu and Sanjiv Kumar \n
+		/EMNLP 2020/ \n
+		- {{<span class = "paper-title"> O(n) Connections are Expressive Enough: Universal Approximability of Sparse Transformers </span>}} \n 
+		Chulhee Yun, Yin-Wen Chang, Srinadh Bhojanapalli, Ankit Singh Rawat, Sashank J. Reddi, Sanjiv Kumar \n
+		/Neurips 2020/ \n
+		[https://arxiv.org/abs/2006.04862 \[Arxiv\]].
 		- {{<span class = "paper-title"> Does label smoothing mitigate label noise? </span>}} \n 
 		Michal Lukasik, Srinadh Bhojanapalli, Aditya Krishna Menon, Sanjiv Kumar \n
 		/ICML 2020/ \n
@@ -23,7 +33,7 @@
 		Behnam Neyshabur, Zhiyuan Li, Srinadh Bhojanapalli, Yann LeCun, Nathan Srebro \n
 		/ICLR 2019/ \n
 		[https://openreview.net/forum?id=BygfghAcYX \[Openreview\]], [https://arxiv.org/abs/1805.12076 \[Arxiv\]].
-		- {{<span class = "paper-title">  Smoothed analysis for low-rank solutions to semidefinite programs in quadratic penalty form </span>}} \n 
+		- {{<span class = "paper-title">  Smoothed analysis for low-rank solutions to semidefinite programs in quadratic penalty form [*] </span>}} \n 
 		Srinadh Bhojanapalli, Nicolas Boumal, Prateek Jain, Praneeth Netrapalli \n
 		/COLT 2018/ \n 
 		[http://arxiv.org/abs/1803.00186 \[Arxiv\]].	
