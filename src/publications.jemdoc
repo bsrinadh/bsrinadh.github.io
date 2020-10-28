@@ -3,12 +3,18 @@
 \[*\] indicates alphabetical ordering of author names.
 	
 == Papers
-		- {{<span class = "paper-title">  An efficient nonconvex reformulation of stagewise convex optimization problems [*] </span>}} \n 
-		Srinadh Bhojanapalli, Rudy Bunel, Krishnamurthy Dvijotham, Oliver Hinder \n
+		- {{<span class = "paper-title">  Coping with Label Shift via Distributionally Robust Optimisation </span>}} \n 
+		Jingzhao Zhang, Aditya Menon, Andreas Veit, Srinadh Bhojanapalli, Sanjiv Kumar, Suvrit Sra \n
+		/Preprint 2020/ \n
+		[https://arxiv.org/abs/2010.12230 \[Arxiv\]]
+		- {{<span class = "paper-title">  An efficient nonconvex reformulation of stagewise convex optimization problems </span>}} \n 
+		Rudy Bunel, Oliver Hinder, Srinadh Bhojanapalli, Krishnamurthy (Dj)Dvijotham \n
 		/Neurips 2020/ \n
+		[https://arxiv.org/abs/2010.14322 \[Arxiv\]]
 		- {{<span class = "paper-title"> Semantic label smoothing for sequence to sequence problems </span>}} \n 
 		Michal Lukasik, Himanshu Jain, Aditya Menon, Seungyeon Kim, Srinadh Bhojanapalli, Felix Yu and Sanjiv Kumar \n
 		/EMNLP 2020/ \n
+		[https://arxiv.org/abs/2010.07447 \[Arxiv\]]
 		- {{<span class = "paper-title"> O(n) Connections are Expressive Enough: Universal Approximability of Sparse Transformers </span>}} \n 
 		Chulhee Yun, Yin-Wen Chang, Srinadh Bhojanapalli, Ankit Singh Rawat, Sashank J. Reddi, Sanjiv Kumar \n
 		/Neurips 2020/ \n

@@ -14,4 +14,6 @@ Earlier I was a research assistant professor at [http://www.ttic.edu TTI Chicago
 == News
 - Neurips 2020: Two papers accepted on universal approximability of Sparse Transformers and efficient formulations for stagewise optimization problems.
 -- [https://arxiv.org/abs/2006.04862 O(n) Connections are Expressive Enough: Universal Approximability of Sparse Transformers ].
+-- [https://arxiv.org/abs/2010.14322  An efficient nonconvex reformulation of stagewise convex optimization problems ].
 - EMNLP 2020: One paper accepted on semantic label smoothing.
+-- [https://arxiv.org/abs/2010.07447  Semantic label smoothing for sequence to sequence problems ].
