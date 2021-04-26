@@ -4,7 +4,7 @@
 
 ~~~
 {}{img_left}{img/profile.jpg}{srinadh}{200px}{231px}
-I am a research scientist at Google research in New York. \n
+I am a senior research scientist at Google research in New York. \n
 
 Earlier I was a research assistant professor at [http://www.ttic.edu TTI Chicago ]. I obtained my PhD in ECE at The University of Texas at Austin where I was advised by [http://users.ece.utexas.edu/~sanghavi/  Prof. Sujay Sanghavi]. Before coming to UT, I've spent four wonderful years pursuing my undergraduate studies at Indian Institute of Technology Bombay.
 
@@ -12,6 +12,10 @@ Earlier I was a research assistant professor at [http://www.ttic.edu TTI Chicago
 ~~~
 
 == News
+- New preprints on
+-- [https://arxiv.org/abs/2104.08698 Better position and segment encodings for Transformers].
+-- [https://arxiv.org/abs/2103.14586 Understanding robustness of Transformers for image classification tasks (ViT models)].
+- ICLR 2021: One paper accepted on [https://openreview.net/forum?id=BtZhsSGNRNi Coping with Label Shift via Distributionally Robust Optimisation]. 
 - Neurips 2020: Two papers accepted on universal approximability of Sparse Transformers and efficient formulations for stagewise optimization problems.
 -- [https://arxiv.org/abs/2006.04862 O(n) Connections are Expressive Enough: Universal Approximability of Sparse Transformers ].
 -- [https://arxiv.org/abs/2010.14322  An efficient nonconvex reformulation of stagewise convex optimization problems ].

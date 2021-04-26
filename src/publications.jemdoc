@@ -3,11 +3,27 @@
 \[*\] indicates alphabetical ordering of author names.
 	
 == Papers
-		- {{<span class = "paper-title">  Coping with Label Shift via Distributionally Robust Optimisation </span>}} \n 
-		Jingzhao Zhang, Aditya Menon, Andreas Veit, Srinadh Bhojanapalli, Sanjiv Kumar, Suvrit Sra \n
+		- {{<span class = "paper-title"> Demystifying the Better Performance of Position Encoding Variants for Transformer  </span>}} \n 
+		Pu-Chin Chen, Henry Tsai, Srinadh Bhojanapalli, Hyung Won Chung, Yin-Wen Chang, Chun-Sung Ferng \n
+		/Preprint 2021/ \n
+		[https://arxiv.org/abs/2104.08698 \[Arxiv\]]
+		- {{<span class = "paper-title"> Understanding Robustness of Transformers for Image Classification [*] </span>}} \n 
+		Srinadh Bhojanapalli, Ayan Chakrabarti, Daniel Glasner, Daliang Li, Thomas Unterthiner, Andreas Veit \n
+		/Preprint 2021/ \n
+		[https://arxiv.org/abs/2103.14586 \[Arxiv\]]
+		- {{<span class = "paper-title"> On the Reproducibility of Neural Network Predictions </span>}} \n 
+		Srinadh Bhojanapalli, Kimberly Wilber, Andreas Veit, Ankit Singh Rawat, Seungyeon Kim, Aditya Menon, Sanjiv Kumar \n
+		/Preprint 2021/ \n
+		[https://arxiv.org/abs/2102.03349 \[Arxiv\]]
+		- {{<span class = "paper-title"> Modifying Memories in Transformer Models  </span>}} \n 
+		Chen Zhu, Ankit Singh Rawat, Manzil Zaheer, Srinadh Bhojanapalli, Daliang Li, Felix Yu, Sanjiv Kumar \n
 		/Preprint 2020/ \n
-		[https://arxiv.org/abs/2010.12230 \[Arxiv\]]
-		- {{<span class = "paper-title">  An efficient nonconvex reformulation of stagewise convex optimization problems </span>}} \n 
+		[https://arxiv.org/abs/2012.00363 \[Arxiv\]]
+		- {{<span class = "paper-title"> Coping with Label Shift via Distributionally Robust Optimisation </span>}} \n 
+		Jingzhao Zhang, Aditya Menon, Andreas Veit, Srinadh Bhojanapalli, Sanjiv Kumar, Suvrit Sra \n
+		/ICLR 2021/ \n
+		[https://openreview.net/forum?id=BtZhsSGNRNi \[Openreview\]], [https://arxiv.org/abs/2010.12230 \[Arxiv\]]
+		- {{<span class = "paper-title"> An efficient nonconvex reformulation of stagewise convex optimization problems </span>}} \n 
 		Rudy Bunel, Oliver Hinder, Srinadh Bhojanapalli, Krishnamurthy (Dj)Dvijotham \n
 		/Neurips 2020/ \n
 		[https://arxiv.org/abs/2010.14322 \[Arxiv\]]
