@@ -7,12 +7,12 @@
 		Michal Lukasik, Srinadh Bhojanapalli, Aditya Krishna Menon, Sanjiv Kumar \n
 		/Preprint 2021/ \n
 		[https://arxiv.org/abs/2106.10494 \[Arxiv\]]
-		- {{<span class = "paper-title"> Eigen Analysis of Self-Attention and its Reconstruction from Partial Computation </span>}} \n 
+		- {{<span class = "paper-title"> Eigen Analysis of Self-Attention and its Reconstruction from Partial Computation [*] </span>}} \n 
 		Srinadh Bhojanapalli, Ayan Chakrabarti, Himanshu Jain, Sanjiv Kumar, Michal Lukasik, Andreas Veit \n
 		/Preprint 2021/ \n
 		[https://arxiv.org/abs/2106.08823 \[Arxiv\]]
 		- {{<span class = "paper-title"> Demystifying the Better Performance of Position Encoding Variants for Transformer  </span>}} \n 
-		Pu-Chin Chen, Henry Tsai, Srinadh Bhojanapalli, Hyung Won Chung, Yin-Wen Chang, Chun-Sung Ferng \n
+		Pu-Chin Chen\*, Henry Tsai\*, Srinadh Bhojanapalli\*, Hyung Won Chung, Yin-Wen Chang, Chun-Sung Ferng \n
 		/EMNLP 2021/ \n
 		[https://arxiv.org/abs/2104.08698 \[Arxiv\]]
 		- {{<span class = "paper-title"> Understanding Robustness of Transformers for Image Classification [*] </span>}} \n 
