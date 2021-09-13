@@ -12,7 +12,10 @@ Earlier I was a research assistant professor at [http://www.ttic.edu TTI Chicago
 ~~~
 
 == News
-- New preprints on
+- New Preprints on biases in Distillation and low dimensionality of Attention in Transformers.
+-- [https://arxiv.org/abs/2106.10494 Teacher's pet: understanding and mitigating biases in distillation].
+-- [https://arxiv.org/abs/2106.08823 Eigen Analysis of Self-Attention and its Reconstruction from Partial Computation].
+- Papers accepted to ICCV and EMNLP 2021 on
 -- [https://arxiv.org/abs/2104.08698 Better position and segment encodings for Transformers].
 -- [https://arxiv.org/abs/2103.14586 Understanding robustness of Transformers for image classification tasks (ViT models)].
 - ICLR 2021: One paper accepted on [https://openreview.net/forum?id=BtZhsSGNRNi Coping with Label Shift via Distributionally Robust Optimisation]. 

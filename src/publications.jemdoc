@@ -3,13 +3,21 @@
 \[*\] indicates alphabetical ordering of author names.
 	
 == Papers
+		- {{<span class = "paper-title">Teacher's pet: understanding and mitigating biases in distillation </span>}} \n 
+		Michal Lukasik, Srinadh Bhojanapalli, Aditya Krishna Menon, Sanjiv Kumar \n
+		/Preprint 2021/ \n
+		[https://arxiv.org/abs/2106.10494 \[Arxiv\]]
+		- {{<span class = "paper-title"> Eigen Analysis of Self-Attention and its Reconstruction from Partial Computation </span>}} \n 
+		Srinadh Bhojanapalli, Ayan Chakrabarti, Himanshu Jain, Sanjiv Kumar, Michal Lukasik, Andreas Veit \n
+		/Preprint 2021/ \n
+		[https://arxiv.org/abs/2106.08823 \[Arxiv\]]
 		- {{<span class = "paper-title"> Demystifying the Better Performance of Position Encoding Variants for Transformer  </span>}} \n 
 		Pu-Chin Chen, Henry Tsai, Srinadh Bhojanapalli, Hyung Won Chung, Yin-Wen Chang, Chun-Sung Ferng \n
-		/Preprint 2021/ \n
+		/EMNLP 2021/ \n
 		[https://arxiv.org/abs/2104.08698 \[Arxiv\]]
 		- {{<span class = "paper-title"> Understanding Robustness of Transformers for Image Classification [*] </span>}} \n 
 		Srinadh Bhojanapalli, Ayan Chakrabarti, Daniel Glasner, Daliang Li, Thomas Unterthiner, Andreas Veit \n
-		/Preprint 2021/ \n
+		/ICCV 2021/ \n
 		[https://arxiv.org/abs/2103.14586 \[Arxiv\]]
 		- {{<span class = "paper-title"> On the Reproducibility of Neural Network Predictions </span>}} \n 
 		Srinadh Bhojanapalli, Kimberly Wilber, Andreas Veit, Ankit Singh Rawat, Seungyeon Kim, Aditya Menon, Sanjiv Kumar \n
