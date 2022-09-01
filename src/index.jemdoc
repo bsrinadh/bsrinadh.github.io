@@ -12,15 +12,142 @@ Earlier I was a research assistant professor at [http://www.ttic.edu TTI Chicago
 ~~~
 
 == News
-- New Preprints on biases in Distillation and low dimensionality of Attention in Transformers.
--- [https://arxiv.org/abs/2106.10494 Teacher's pet: understanding and mitigating biases in distillation].
--- [https://arxiv.org/abs/2106.08823 Eigen Analysis of Self-Attention and its Reconstruction from Partial Computation].
-- Papers accepted to ICCV and EMNLP 2021 on
--- [https://arxiv.org/abs/2104.08698 Better position and segment encodings for Transformers].
--- [https://arxiv.org/abs/2103.14586 Understanding robustness of Transformers for image classification tasks (ViT models)].
-- ICLR 2021: One paper accepted on [https://openreview.net/forum?id=BtZhsSGNRNi Coping with Label Shift via Distributionally Robust Optimisation]. 
-- Neurips 2020: Two papers accepted on universal approximability of Sparse Transformers and efficient formulations for stagewise optimization problems.
--- [https://arxiv.org/abs/2006.04862 O(n) Connections are Expressive Enough: Universal Approximability of Sparse Transformers ].
--- [https://arxiv.org/abs/2010.14322  An efficient nonconvex reformulation of stagewise convex optimization problems ].
-- EMNLP 2020: One paper accepted on semantic label smoothing.
--- [https://arxiv.org/abs/2010.07447  Semantic label smoothing for sequence to sequence problems ].
+- New preprint on computing attention efficiently using decision trees.
+-- [https://arxiv.org/abs/2208.09015 Treeformer: Dense Gradient Trees for Efficient Attention Computationn].
+- One paper accepted to ICML 2022 on robust optimization for Transformers using SGD.
+-- [https://arxiv.org/abs/2202.00980 Robust Training of Neural Networks Using Scale Invariant Architectures].
+
+
+== Papers
+		- {{<span class = "paper-title">Treeformer: Dense Gradient Trees for Efficient Attention Computation </span>}} \n 
+		Lovish Madaan, Srinadh Bhojanapalli, Himanshu Jain, Prateek Jain \n
+		/Preprint 2022/ \n
+		[https://arxiv.org/abs/2208.09015 \[Arxiv\]]
+		- {{<span class = "paper-title">Robust Training of Neural Networks Using Scale Invariant Architectures </span>}} \n 
+		Zhiyuan Li, Srinadh Bhojanapalli, Manzil Zaheer, Sashank Reddi, Sanjiv Kumar \n
+		/ICML 2022/ \n
+		[https://arxiv.org/abs/2202.00980 \[Arxiv\]]
+		- {{<span class = "paper-title">Leveraging redundancy in attention with Reuse Transformers </span>}} \n 
+		Srinadh Bhojanapalli\*, Ayan Chakrabarti\*, Andreas Veit, Michal Lukasik, Himanshu Jain, Frederick Liu, Yin-Wen Chang, Sanjiv Kumar \n
+		/Preprint 2021/ \n
+		[https://arxiv.org/abs/2110.06821 \[Arxiv\]]
+		- {{<span class = "paper-title">Teacher's pet: understanding and mitigating biases in distillation </span>}} \n 
+		Michal Lukasik, Srinadh Bhojanapalli, Aditya Krishna Menon, Sanjiv Kumar \n
+		/Preprint 2021/ \n
+		[https://arxiv.org/abs/2106.10494 \[Arxiv\]]
+		- {{<span class = "paper-title"> Eigen Analysis of Self-Attention and its Reconstruction from Partial Computation [*] </span>}} \n 
+		Srinadh Bhojanapalli, Ayan Chakrabarti, Himanshu Jain, Sanjiv Kumar, Michal Lukasik, Andreas Veit \n
+		/Preprint 2021/ \n
+		[https://arxiv.org/abs/2106.08823 \[Arxiv\]]
+		- {{<span class = "paper-title"> Demystifying the Better Performance of Position Encoding Variants for Transformer  </span>}} \n 
+		Pu-Chin Chen\*, Henry Tsai\*, Srinadh Bhojanapalli\*, Hyung Won Chung, Yin-Wen Chang, Chun-Sung Ferng \n
+		/EMNLP 2021/ \n
+		[https://arxiv.org/abs/2104.08698 \[Arxiv\]]
+		- {{<span class = "paper-title"> Understanding Robustness of Transformers for Image Classification [*] </span>}} \n 
+		Srinadh Bhojanapalli, Ayan Chakrabarti, Daniel Glasner, Daliang Li, Thomas Unterthiner, Andreas Veit \n
+		/ICCV 2021/ \n
+		[https://arxiv.org/abs/2103.14586 \[Arxiv\]]
+		- {{<span class = "paper-title"> On the Reproducibility of Neural Network Predictions </span>}} \n 
+		Srinadh Bhojanapalli, Kimberly Wilber, Andreas Veit, Ankit Singh Rawat, Seungyeon Kim, Aditya Menon, Sanjiv Kumar \n
+		/Preprint 2021/ \n
+		[https://arxiv.org/abs/2102.03349 \[Arxiv\]]
+		- {{<span class = "paper-title"> Modifying Memories in Transformer Models  </span>}} \n 
+		Chen Zhu, Ankit Singh Rawat, Manzil Zaheer, Srinadh Bhojanapalli, Daliang Li, Felix Yu, Sanjiv Kumar \n
+		/Preprint 2020/ \n
+		[https://arxiv.org/abs/2012.00363 \[Arxiv\]]
+		- {{<span class = "paper-title"> Coping with Label Shift via Distributionally Robust Optimisation </span>}} \n 
+		Jingzhao Zhang, Aditya Menon, Andreas Veit, Srinadh Bhojanapalli, Sanjiv Kumar, Suvrit Sra \n
+		/ICLR 2021/ \n
+		[https://openreview.net/forum?id=BtZhsSGNRNi \[Openreview\]], [https://arxiv.org/abs/2010.12230 \[Arxiv\]]
+		- {{<span class = "paper-title"> An efficient nonconvex reformulation of stagewise convex optimization problems </span>}} \n 
+		Rudy Bunel, Oliver Hinder, Srinadh Bhojanapalli, Krishnamurthy (Dj)Dvijotham \n
+		/Neurips 2020/ \n
+		[https://arxiv.org/abs/2010.14322 \[Arxiv\]]
+		- {{<span class = "paper-title"> Semantic label smoothing for sequence to sequence problems </span>}} \n 
+		Michal Lukasik, Himanshu Jain, Aditya Menon, Seungyeon Kim, Srinadh Bhojanapalli, Felix Yu and Sanjiv Kumar \n
+		/EMNLP 2020/ \n
+		[https://arxiv.org/abs/2010.07447 \[Arxiv\]]
+		- {{<span class = "paper-title"> O(n) Connections are Expressive Enough: Universal Approximability of Sparse Transformers </span>}} \n 
+		Chulhee Yun, Yin-Wen Chang, Srinadh Bhojanapalli, Ankit Singh Rawat, Sashank J. Reddi, Sanjiv Kumar \n
+		/Neurips 2020/ \n
+		[https://arxiv.org/abs/2006.04862 \[Arxiv\]].
+		- {{<span class = "paper-title"> Does label smoothing mitigate label noise? </span>}} \n 
+		Michal Lukasik, Srinadh Bhojanapalli, Aditya Krishna Menon, Sanjiv Kumar \n
+		/ICML 2020/ \n
+		[https://arxiv.org/abs/2003.02819 \[Arxiv\]].
+		- {{<span class = "paper-title"> Low-Rank Bottleneck in Multi-head Attention Models </span>}} \n 
+		Srinadh Bhojanapalli, Chulhee Yun, Ankit Singh Rawat, Sashank J. Reddi, Sanjiv Kumar \n
+		/ICML 2020/ \n
+		[https://arxiv.org/abs/2002.07028 \[Arxiv\]].
+		- {{<span class = "paper-title">  Are Transformers universal approximators of sequence-to-sequence functions? </span>}} \n 
+		Chulhee Yun, Srinadh Bhojanapalli, Ankit Singh Rawat, Sashank Reddi, Sanjiv Kumar \n
+		/ICLR 2020/ \n
+		[https://openreview.net/forum?id=ByxRM0Ntvr \[Openreview\]].
+		- {{<span class = "paper-title">  Large Batch Optimization for Deep Learning: Training BERT in 76 minutes  </span>}} \n 
+		Yang You, Jing Li, Sashank Reddi, Jonathan Hseu, Sanjiv Kumar, Srinadh Bhojanapalli, Xiaodan Song, James Demmel, Kurt Keutzer, Cho-Jui Hsieh \n
+		/ICLR 2020/ \n
+		[https://openreview.net/forum?id=Syx4wnEtvH \[Openreview\]], [https://arxiv.org/abs/1904.00962 \[Arxiv\]].
+		- {{<span class = "paper-title"> The role of over-parametrization in generalization of neural networks  </span>}} \n 
+		Behnam Neyshabur, Zhiyuan Li, Srinadh Bhojanapalli, Yann LeCun, Nathan Srebro \n
+		/ICLR 2019/ \n
+		[https://openreview.net/forum?id=BygfghAcYX \[Openreview\]], [https://arxiv.org/abs/1805.12076 \[Arxiv\]].
+		- {{<span class = "paper-title">  Smoothed analysis for low-rank solutions to semidefinite programs in quadratic penalty form [*] </span>}} \n 
+		Srinadh Bhojanapalli, Nicolas Boumal, Prateek Jain, Praneeth Netrapalli \n
+		/COLT 2018/ \n 
+		[http://arxiv.org/abs/1803.00186 \[Arxiv\]].	
+		- {{<span class = "paper-title"> A PAC-Bayesian Approach to Spectrally-Normalized Margin Bounds for Neural Networks </span>}} \n 
+		Behnam Neyshabur, Srinadh Bhojanapalli, Nathan Srebro \n
+		/ICLR 2018/ \n
+		[http://arxiv.org/abs/1707.09564 \[Arxiv\]].
+		- {{<span class = "paper-title"> Exploring Generalization in Deep Learning </span>}} \n 
+		Behnam Neyshabur, Srinadh Bhojanapalli, David McAllester, Nathan Srebro \n
+		/NIPS 2017/ \n
+		[http://arxiv.org/abs/1706.08947 \[Arxiv\]]. 
+		- {{<span class = "paper-title"> Implicit Regularization in Matrix Factorization </span>}} \n 
+		Suriya Gunasekar, Blake Woodworth, Srinadh Bhojanapalli, Behnam Neyshabur, Nathan Srebro \n
+		/NIPS 2017/ \n
+		- {{<span class = "paper-title"> Stabilizing GAN Training with Multiple Random Projections </span>}} \n 
+		Behnam Neyshabur, Srinadh Bhojanapalli, Ayan Chakrabarti \n
+		/preprint 2017/, [http://arxiv.org/abs/1705.07831 \[Arxiv\]], [http://ttic.uchicago.edu/~ayanc/rpgan/ \[Project website\]]. 
+		[http://arxiv.org/abs/1705.09280 \[Arxiv\]], [https://goo.gl/hibZfn \[slides\] ]. 
+		- {{<span class = "paper-title"> Single Pass PCA of Matrix Products </span>}} \n 
+		Shanshan Wu, Srinadh Bhojanapalli, Sujay Sanghavi, Alex Dimakis \n
+		/NIPS 2016/ \n 	
+		[http://arxiv.org/abs/1610.06656 \[Arxiv\]], [https://github.com/wushanshan/MatrixProductPCA \[SPARK code\]].	
+		- {{<span class = "paper-title"> Global Optimality of Local Search for Low Rank Matrix Recovery </span>}} \n 
+		Srinadh Bhojanapalli, Behnam Neyshabur, Nathan Srebro \n
+		/NIPS 2016/ \n 
+		[http://arxiv.org/abs/1605.07221 \[Arxiv\]].
+		- {{<span class = "paper-title"> Provable Burer-Monteiro factorization for a class of norm-constrained matrix problems </span>}} \n
+		Dohyung Park, Anastasios Kyrillidis, Srinadh Bhojanapalli, Constantine Caramanis, Sujay Sanghavi \n
+		/preprint 2016/, [http://arxiv.org/abs/1606.01316 \[Arxiv\]].
+		- {{<span class = "paper-title"> Dropping Convexity for Faster Semi-definite Optimization </span>}} \n
+		Srinadh Bhojanapalli,  Anastasios Kyrillidis, Sujay Sanghavi \n
+		/COLT 2016/ \n 
+		[http://arxiv.org/abs/1509.03917 \[Arxiv\]], [http://www.jmlr.org/proceedings/papers/v49/bhojanapalli16.html \[COLT\] ], [https://goo.gl/lecm7p \[slides\] ].
+		- {{<span class = "paper-title">  A New Sampling Technique for Tensors </span>}} \n 
+		Srinadh Bhojanapalli, Sujay Sanghavi \n
+		/preprint 2015/, [http://arxiv.org/abs/1502.05023 \[Arxiv\]], [https://goo.gl/sQQGs4 \[slides\] ].
+		- {{<span class = "paper-title">  Tighter Low-rank Approximation via Sampling the Leveraged Element </span>}} \n
+		Srinadh Bhojanapalli, Prateek Jain, Sujay Sanghavi \n
+		/SODA 2015/ \n
+		[http://arxiv.org/abs/1410.3886 \[Arxiv\]], [http://epubs.siam.org/doi/abs/10.1137/1.9781611973730.62 \[SODA\]], [http://goo.gl/NQ2Tr0 \[slides\] ].
+		- {{<span class = "paper-title">  Completing any Low-rank Matrix, Provably </span>}} \n
+		Yudong Chen, Srinadh Bhojanapalli, Sujay Sanghavi, Rachel Ward \n
+		/JMLR 2015 / \n
+        [http://arxiv.org/abs/1306.2979 \[Arxiv\]], [http://jmlr.org/papers/v16/chen15b.html \[JMLR\]]. 
+		- {{<span class = "paper-title">  Universal Matrix Completion </span>}}\n
+		Srinadh Bhojanapalli, Prateek Jain \n
+		/ICML 2014/ \n
+		[http://arxiv.org/abs/1402.2324 \[Arxiv\]], [http://jmlr.org/proceedings/papers/v32/bhojanapalli14.html \[ICML\]], [http://goo.gl/smcO5b \[slides\]], [http://techtalks.tv/talks/coherent-matrix-completion/60925 \[video\]]. 
+		- {{<span class = "paper-title"> Coherent Matrix Completion </span>}}\n 
+		Yudong Chen, Srinadh Bhojanapalli, Sujay Sanghavi, Rachel Ward \n
+		/ICML 2014/ \n
+		[http://arxiv.org/abs/1306.2979 \[Arxiv\]], [http://jmlr.org/proceedings/papers/v32/chenc14.html  \[ICML\]], [http://goo.gl/3zQZnj \[slides\]],  [http://techtalks.tv/talks/coherent-matrix-completion/60924 \[video\]].
+	
+
+=== PhD Thesis
+	
+	{{<span class = "paper-title">  Large Scale Matrix Factorization with Guarantees: Sampling and Bi-linearity </span>}} [https://goo.gl/wzKnB9 \[pdf\] ] \n
+	/UT Austin, 2015./
+	
