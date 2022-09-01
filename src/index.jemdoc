@@ -11,7 +11,7 @@ Earlier I was a research assistant professor at [http://www.ttic.edu TTI Chicago
 *Contact:* bsrinadh \[at\] google \[dot\] com.
 ~~~
 
-== News
+* News*
 - New preprint on computing attention efficiently using decision trees.
 -- [https://arxiv.org/abs/2208.09015 Treeformer: Dense Gradient Trees for Efficient Attention Computationn].
 - One paper accepted to ICML 2022 on robust optimization for Transformers using SGD.
