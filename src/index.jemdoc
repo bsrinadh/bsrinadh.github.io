@@ -30,6 +30,9 @@ Earlier I was a research assistant professor at [http://www.ttic.edu TTI Chicago
 
 
 == Papers
+		- {{<span class = "paper-title">On the Adversarial Robustness of Mixture of Experts </span>}} \n 
+		Joan Puigcerver, Rodolphe Jenatton, Carlos Riquelme Ruiz, Pranjal Awasthi, Srinadh Bhojanapalli \n
+		/Neurips 2022/ \n
 		- {{<span class = "paper-title">Treeformer: Dense Gradient Trees for Efficient Attention Computation </span>}} \n 
 		Lovish Madaan, Srinadh Bhojanapalli, Himanshu Jain, Prateek Jain \n
 		/Preprint 2022/ \n
