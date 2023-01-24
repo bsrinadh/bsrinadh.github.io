@@ -12,10 +12,10 @@ Earlier I was a research assistant professor at [http://www.ttic.edu TTI Chicago
 ~~~
 
 * News*
-- New preprint on computing attention efficiently using decision trees.
--- [https://arxiv.org/abs/2208.09015 Treeformer: Dense Gradient Trees for Efficient Attention Computationn].
-- One paper accepted to ICML 2022 on robust optimization for Transformers using SGD.
--- [https://arxiv.org/abs/2202.00980 Robust Training of Neural Networks Using Scale Invariant Architectures].
+- Two papers accepted to ICLR 2023 on efficient Transformers.
+-- [https://arxiv.org/abs/2208.09015 Treeformer: Dense Gradient Trees for Efficient Attention Computation].
+-- [https://arxiv.org/abs/2210.06313 Large Models are Parsimonious Learners: Activation Sparsity in Trained Transformers].
+
 
 
 *Current/former Interns.*
@@ -30,13 +30,22 @@ Earlier I was a research assistant professor at [http://www.ttic.edu TTI Chicago
 
 
 == Papers
+		- {{<span class = "paper-title">Large Models are Parsimonious Learners: Activation Sparsity in Trained Transformers </span>}} \n 
+		Zonglin Li, Chong You, Srinadh Bhojanapalli, Daliang Li, Ankit Singh Rawat, Sashank J Reddi, Ke Ye, Felix Chern, Felix Yu, Ruiqi Guo, Sanjiv Kumar \n
+		/ICLR 2023/ \n
+		[https://arxiv.org/abs/2210.06313 \[Arxiv\]]
+		- {{<span class = "paper-title">Treeformer: Dense Gradient Trees for Efficient Attention Computation </span>}} \n 
+		Lovish Madaan, Srinadh Bhojanapalli, Himanshu Jain, Prateek Jain \n
+		/ICLR 2023/ \n
+		[https://arxiv.org/abs/2208.09015 \[Arxiv\]]
 		- {{<span class = "paper-title">On the Adversarial Robustness of Mixture of Experts </span>}} \n 
 		Joan Puigcerver, Rodolphe Jenatton, Carlos Riquelme Ruiz, Pranjal Awasthi, Srinadh Bhojanapalli \n
 		/Neurips 2022/ \n
-		- {{<span class = "paper-title">Treeformer: Dense Gradient Trees for Efficient Attention Computation </span>}} \n 
-		Lovish Madaan, Srinadh Bhojanapalli, Himanshu Jain, Prateek Jain \n
-		/Preprint 2022/ \n
-		[https://arxiv.org/abs/2208.09015 \[Arxiv\]]
+		[https://arxiv.org/abs/2210.10253 \[Arxiv\]]
+		- {{<span class = "paper-title">Teacher's pet: understanding and mitigating biases in distillation </span>}} \n 
+		Michal Lukasik, Srinadh Bhojanapalli, Aditya Krishna Menon, Sanjiv Kumar \n
+		/TMLR 2022/ \n
+		[https://arxiv.org/abs/2106.10494 \[Arxiv\]]
 		- {{<span class = "paper-title">Robust Training of Neural Networks Using Scale Invariant Architectures </span>}} \n 
 		Zhiyuan Li, Srinadh Bhojanapalli, Manzil Zaheer, Sashank Reddi, Sanjiv Kumar \n
 		/ICML 2022/ \n
@@ -45,10 +54,6 @@ Earlier I was a research assistant professor at [http://www.ttic.edu TTI Chicago
 		Srinadh Bhojanapalli\*, Ayan Chakrabarti\*, Andreas Veit, Michal Lukasik, Himanshu Jain, Frederick Liu, Yin-Wen Chang, Sanjiv Kumar \n
 		/Preprint 2021/ \n
 		[https://arxiv.org/abs/2110.06821 \[Arxiv\]]
-		- {{<span class = "paper-title">Teacher's pet: understanding and mitigating biases in distillation </span>}} \n 
-		Michal Lukasik, Srinadh Bhojanapalli, Aditya Krishna Menon, Sanjiv Kumar \n
-		/Preprint 2021/ \n
-		[https://arxiv.org/abs/2106.10494 \[Arxiv\]]
 		- {{<span class = "paper-title"> Eigen Analysis of Self-Attention and its Reconstruction from Partial Computation [*] </span>}} \n 
 		Srinadh Bhojanapalli, Ayan Chakrabarti, Himanshu Jain, Sanjiv Kumar, Michal Lukasik, Andreas Veit \n
 		/Preprint 2021/ \n
