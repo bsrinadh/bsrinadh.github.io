@@ -4,7 +4,7 @@
 
 ~~~
 {}{img_left}{img/profile.jpg}{srinadh}{200px}{231px}
-I am a senior research scientist at Google research in New York. \n
+I am a staff research scientist at Google research in New York. \n
 
 Earlier I was a research assistant professor at [http://www.ttic.edu TTI Chicago ]. I obtained my PhD in ECE at The University of Texas at Austin where I was advised by [http://users.ece.utexas.edu/~sanghavi/  Prof. Sujay Sanghavi]. Before coming to UT, I've spent four wonderful years pursuing my undergraduate studies at Indian Institute of Technology Bombay.
 
@@ -30,6 +30,12 @@ Earlier I was a research assistant professor at [http://www.ttic.edu TTI Chicago
 
 
 == Papers
+		- {{<span class = "paper-title">Depth Dependence of muP Learning Rates in ReLU MLPs </span>}} \n 
+		Samy Jelassi, Boris Hanin, Ziwei Ji, Sashank J Reddi, Srinadh Bhojanapalli, Sanjiv Kumar \n
+		[https://arxiv.org/abs/2305.07810 \[Arxiv\]]
+		- {{<span class = "paper-title">On student-teacher deviations in distillation: does it pay to disobey? </span>}} \n 
+		Vaishnavh Nagarajan, Aditya Krishna Menon, Srinadh Bhojanapalli, Hossein Mobahi, Sanjiv Kumar \n
+		[https://arxiv.org/abs/2301.12923 \[Arxiv\]]
 		- {{<span class = "paper-title">Large Models are Parsimonious Learners: Activation Sparsity in Trained Transformers </span>}} \n 
 		Zonglin Li, Chong You, Srinadh Bhojanapalli, Daliang Li, Ankit Singh Rawat, Sashank J Reddi, Ke Ye, Felix Chern, Felix Yu, Ruiqi Guo, Sanjiv Kumar \n
 		/ICLR 2023/ \n
