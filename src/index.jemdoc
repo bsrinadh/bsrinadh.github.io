@@ -12,6 +12,9 @@ Earlier I was a research assistant professor at [http://www.ttic.edu TTI Chicago
 ~~~
 
 * News*
+-  New preprint on a novel position encoding approach [https://arxiv.org/abs/2310.04418  \[FIRE\]] to enable length generalization in Transformers.
+- One paper accepted to Neurips 2023 on understanding Distillation.
+-- [https://arxiv.org/abs/2301.12923On student-teacher deviations in distillation: does it pay to disobey?]
 - Two papers accepted to ICLR 2023 on efficient Transformers.
 -- [https://arxiv.org/abs/2208.09015 Treeformer: Dense Gradient Trees for Efficient Attention Computation].
 -- [https://arxiv.org/abs/2210.06313 Large Models are Parsimonious Learners: Activation Sparsity in Trained Transformers].
@@ -19,6 +22,7 @@ Earlier I was a research assistant professor at [http://www.ttic.edu TTI Chicago
 
 
 *Current/former Interns.*
+- Shanda Li (Grad student at CMU)
 - Samy Jelassi (Grad student at Princeton)
 - Zhiyuan Li (Grad student at Princeton)
 - Wei Hu (Asst. Prof. at U. Michigan)
@@ -30,11 +34,18 @@ Earlier I was a research assistant professor at [http://www.ttic.edu TTI Chicago
 
 
 == Papers
+		- {{<span class = "paper-title">Functional Interpolation for Relative Positions Improves Long Context Transformers </span>}} \n 
+		Shanda Li, Chong You, Guru Guruganesh, Joshua Ainslie, Santiago Ontanon, Manzil Zaheer, Sumit Sanghai, Yiming Yang, Sanjiv Kumar, Srinadh Bhojanapalli \n
+		[https://arxiv.org/abs/2310.04418 \[Arxiv\]]
+		- {{<span class = "paper-title">Efficacy of Dual-Encoders for Extreme Multi-Label Classification </span>}} \n 
+		Nilesh Gupta, Devvrit Khatri, Ankit S Rawat, Srinadh Bhojanapalli, Prateek Jain, Inderjit S Dhillon \n
+		[https://arxiv.org/abs/2310.10636 \[Arxiv\]]
 		- {{<span class = "paper-title">Depth Dependence of muP Learning Rates in ReLU MLPs </span>}} \n 
 		Samy Jelassi, Boris Hanin, Ziwei Ji, Sashank J Reddi, Srinadh Bhojanapalli, Sanjiv Kumar \n
 		[https://arxiv.org/abs/2305.07810 \[Arxiv\]]
 		- {{<span class = "paper-title">On student-teacher deviations in distillation: does it pay to disobey? </span>}} \n 
 		Vaishnavh Nagarajan, Aditya Krishna Menon, Srinadh Bhojanapalli, Hossein Mobahi, Sanjiv Kumar \n
+		/Neurips 2023/ \n
 		[https://arxiv.org/abs/2301.12923 \[Arxiv\]]
 		- {{<span class = "paper-title">Large Models are Parsimonious Learners: Activation Sparsity in Trained Transformers </span>}} \n 
 		Zonglin Li, Chong You, Srinadh Bhojanapalli, Daliang Li, Ankit Singh Rawat, Sashank J Reddi, Ke Ye, Felix Chern, Felix Yu, Ruiqi Guo, Sanjiv Kumar \n
