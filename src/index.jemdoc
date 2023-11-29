@@ -12,9 +12,9 @@ Earlier I was a research assistant professor at [http://www.ttic.edu TTI Chicago
 ~~~
 
 * News*
--  New preprint on a novel position encoding approach [https://arxiv.org/abs/2310.04418  \[FIRE\]] to enable length generalization in Transformers.
+-  New preprint on a novel position encoding approach [https://arxiv.org/abs/2310.04418  FIRE] to enable length generalization in Transformers.
 - One paper accepted to Neurips 2023 on understanding Distillation.
--- [https://arxiv.org/abs/2301.12923On student-teacher deviations in distillation: does it pay to disobey?]
+-- [https://arxiv.org/abs/2301.12923 On student-teacher deviations in distillation: does it pay to disobey?]
 - Two papers accepted to ICLR 2023 on efficient Transformers.
 -- [https://arxiv.org/abs/2208.09015 Treeformer: Dense Gradient Trees for Efficient Attention Computation].
 -- [https://arxiv.org/abs/2210.06313 Large Models are Parsimonious Learners: Activation Sparsity in Trained Transformers].
