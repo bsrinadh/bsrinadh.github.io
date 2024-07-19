@@ -12,6 +12,7 @@ Earlier I was a research assistant professor at [http://www.ttic.edu TTI Chicago
 ~~~
 
 * News*
+- July 2024 - We have a new paper introducing [https://arxiv.org/abs/2405.20671 position coupling] that improves length generalization of Transformer on addition upto 500 digits! This will be presented at the [https://longcontextfm.github.io/ LCFM workshop] at ICML 2024.
 - May 2024 - I will be attending ICLR 2024. Ping me if you will be around, will be great to meetup!
 - Feb 2024 - Visiting UT Austin to present our latest work on [https://calendar.utexas.edu/event/long_context_foundational_models_an_institute_for_foundations_of_machine_learning_seminar Long Context Foundational Models].
 - 2 papers accepted to ICLR 2024.
@@ -21,6 +22,7 @@ Earlier I was a research assistant professor at [http://www.ttic.edu TTI Chicago
 
 
 *Current/former Interns.*
+- Asher Trockman (Grad student at CMU)
 - Shanda Li (Grad student at CMU)
 - Samy Jelassi (Grad student at Princeton)
 - Zhiyuan Li (Grad student at Princeton)
@@ -33,6 +35,10 @@ Earlier I was a research assistant professor at [http://www.ttic.edu TTI Chicago
 
 
 == Papers
+		- {{<span class = "paper-title"> Position Coupling: Leveraging Task Structure for Improved Length Generalization of Transformers </span>}} \n 
+		Hanseul Cho, Jaeyoung Cha, Pranjal Awasthi, Srinadh Bhojanapalli, Anupam Gupta, Chulhee Yun \n
+		/Long Context Foundation Models Workshop at ICML 2024/ \n
+		[https://arxiv.org/abs/2405.20671 \[Arxiv\]]
 		- {{<span class = "paper-title"> Efficient Language Model Architectures for Differentially Private Federated Learning </span>}} \n 
 		Jae Hun Ro, Srinadh Bhojanapalli, Zheng Xu, Yanxiang Zhang, Ananda Theertha Suresh \n
 		/Privacy Regulation and Protection in Machine Learning Workshop at ICLR 2024/ \n
